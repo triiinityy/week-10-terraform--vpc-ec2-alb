@@ -27,6 +27,6 @@ resource "aws_security_group" "sg1" {
   tags= {
     env = "Dev"
   }
-
+}
   
 
